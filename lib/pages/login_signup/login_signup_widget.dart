@@ -650,8 +650,10 @@ class _LoginSignupWidgetState extends State<LoginSignupWidget>
                                                                     0.0,
                                                                     16.0),
                                                         child: FFButtonWidget(
-                                                          onPressed:
-                                                              () async {},
+                                                          onPressed: () {
+                                                            print(
+                                                                'Button pressed ...');
+                                                          },
                                                           text:
                                                               'Continue with Google',
                                                           icon: const FaIcon(
@@ -719,8 +721,10 @@ class _LoginSignupWidgetState extends State<LoginSignupWidget>
                                                                     0.0,
                                                                     16.0),
                                                         child: FFButtonWidget(
-                                                          onPressed:
-                                                              () async {},
+                                                          onPressed: () {
+                                                            print(
+                                                                'Button pressed ...');
+                                                          },
                                                           text:
                                                               'Continue with Apple',
                                                           icon: const FaIcon(
@@ -1242,8 +1246,10 @@ class _LoginSignupWidgetState extends State<LoginSignupWidget>
                                                                     0.0,
                                                                     16.0),
                                                         child: FFButtonWidget(
-                                                          onPressed:
-                                                              () async {},
+                                                          onPressed: () {
+                                                            print(
+                                                                'Button pressed ...');
+                                                          },
                                                           text:
                                                               'Continue with Google',
                                                           icon: const FaIcon(
@@ -1311,8 +1317,10 @@ class _LoginSignupWidgetState extends State<LoginSignupWidget>
                                                                     0.0,
                                                                     16.0),
                                                         child: FFButtonWidget(
-                                                          onPressed:
-                                                              () async {},
+                                                          onPressed: () {
+                                                            print(
+                                                                'Button pressed ...');
+                                                          },
                                                           text:
                                                               'Continue with Apple',
                                                           icon: const FaIcon(
