@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507909969335",
+    "project_id": "myydoctor-av31fx",
+    "storage_bucket": "myydoctor-av31fx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507909969335:android:81f52a9ebe03720d7d0432",
+        "android_client_info": {
+          "package_name": "com.mycompany.pixeldino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwewlwpFewt9UHNOj66ea5gtPR7eqVx2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
